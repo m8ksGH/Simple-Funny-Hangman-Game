@@ -8,4 +8,4 @@ skills in guessing and vocabulary.
 
 Below are the attached suprise photos of a man who are about to be hanged save him for he is innocent haha.
 
-![](https://github.com/m8ksGH/m8ksGH/blob/main/s1.png)    ![](https://github.com/m8ksGH/m8ksGH/blob/main/s1.png)
+![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmW.png)   ![](https://github.com/m8ksGH/Simple-Funny-Hangman-Game/blob/master/hmL.png)
